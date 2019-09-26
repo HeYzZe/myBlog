@@ -337,7 +337,8 @@ html, body, #fullpage{
   border-radius: 100%;
 }
 .avatar-name {
-  writing-mode: vertical-lr
+  /* writing-mode: vertical-lr */
+  font-style: italic;
 }
 .avatar-slogan {
   writing-mode: vertical-lr;
