@@ -79,5 +79,5 @@ theme: antiquity
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:HeYzZe/myBlog.git
+  repository: git@github.com:HeYzZe/HeYzZe.github.io.git
   branch: master
