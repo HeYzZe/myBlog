@@ -27,6 +27,7 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
+# 避开通过框架渲染 可以自定也静态页面样式 详情：https://blog.csdn.net/qq_36759224/article/details/90320295
 skip_render:
 
 # Writing
