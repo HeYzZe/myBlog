@@ -44,9 +44,9 @@ $ npm install -g hexo
 ~~~
 ## 初始化项目
 到你需要的目录下
-~~~
+~~~git
 $ npm init 文件名
-~~~`
+~~~
 初始化完成后安装依赖
 ~~~
 $ npm install
