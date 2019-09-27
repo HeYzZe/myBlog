@@ -1,7 +1,10 @@
 ---
 title: 第一篇博客
 date: 2019-09-25 19:40:13
-tags: [hexo, GitHub, blog]
+tags:
+- hexo
+- GitHub
+- blog
 ---
 第一次使用[hexo]搭建自己的博客 ~ 第一篇就首先简单记录一下这篇的蛋生吧。
 

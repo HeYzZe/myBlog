@@ -1,4 +1,12 @@
+---
+title: Macdown语法
+date: 2019-09-27 19:40:00
+tags: [Macdown]
+---
+
 # Macdown语法 #
+
+<!-- more -->
 
 ## Macdown的基本语法 ##
 

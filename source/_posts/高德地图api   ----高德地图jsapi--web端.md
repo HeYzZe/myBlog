@@ -1,3 +1,9 @@
+---
+title: 高德地图api
+date: 2019-09-27 19:37:00
+tags: [高德地图, api]
+---
+
 # 高德地图api 		<sub>----[高德地图jsapi--web端](https://lbs.amap.com/api/javascript-api/guide/abc/prepare)</sub>
 
 ## 引入文件
@@ -7,6 +13,8 @@
 1. [注册开发者账号](https://lbs.amap.com/dev/id/newuser)
 2. [应用管理]-->[创建新应用]
 3. 为应用[添加 Key](https://lbs.amap.com/dev/key/app)，「服务平台」一项请选择「 Web 端 ( JSAPI ) 」
+
+<!-- more -->
 
 ### 准备页面
 

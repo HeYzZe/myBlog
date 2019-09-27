@@ -1,3 +1,9 @@
+---
+title: echarts：折线图配置
+date: 2019-09-27 19:39:00
+tags: [echarts, api]
+---
+
 # echarts：折线图配置
 
 ## 一、 导入echarts
@@ -5,6 +11,8 @@
 ### npm 安装echarts
 
 `npm install echarts --save`详见：[在 webpack 中使用 echarts](http://echarts.baidu.com/tutorial.html#%E5%9C%A8%20webpack%20%E4%B8%AD%E4%BD%BF%E7%94%A8%20ECharts)
+
+<!-- more -->
 
 ### 引入 echarts
 
