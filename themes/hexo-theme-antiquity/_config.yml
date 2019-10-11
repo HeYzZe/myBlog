@@ -52,10 +52,11 @@ highlightPanel: cloud
 
 #Gitment
 gitment:
-  owner: 
-  repo: 
-  client_id: 
-  client_secret: 
+  owner: HeYzZe
+  repo: blog-repo
+  client_id: 4d8bd4bef7e5bdb2676d
+  client_secret: 57dc4100da1686ed0f58018f33734a9e6b852bc3
+  lazy: false
 
 # Miscellaneous
 google_analytics:

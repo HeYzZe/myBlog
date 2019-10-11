@@ -3231,7 +3231,7 @@ function ajaxFactory(method) {
     });
     req.open(method, url, true);
 
-    req.setRequestHeader('Accept', 'application/vnd.github.squirrel-girl-preview, application/vnd.github.html+json');
+    req.setRequestHeader('Accept', 'application/vnd.github.squirrel-girl-preview, application/vnd.github.html+json, application/json, application/xml');
     if (token) {
       req.setRequestHeader('Authorization', 'token ' + token);
     }
@@ -3413,6 +3413,7 @@ var Gitment = function () {
       }, options);
 
       this.state.user.isLoggingIn = true;
+    //   _utils.http.post('https://gh-oauth.imsun.net', {
       _utils.http.post('https://gh-oauth.imsun.net', {
         code: code,
         client_id: client_id,
