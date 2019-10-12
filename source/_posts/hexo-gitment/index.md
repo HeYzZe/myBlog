@@ -20,9 +20,9 @@ Application description: 描述，随便
 Authorization callback URL: 回调地址，博客地址
 ```
 成功后如下
-![GitHub Setting](./images/2.png)
+![GitHub Setting](index/2.png)
 将生成的client_id，client_secret配置到博客配置中
-![GitHub Setting](./images/1.png)
+![GitHub Setting](index/1.png)
 ```yaml
 owner: HeYzZe // GitHub用户名
 repo: blog-repo // 评论记录存储库名
